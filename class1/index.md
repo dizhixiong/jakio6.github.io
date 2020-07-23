@@ -200,4 +200,4 @@ Bhasker, Rakesh Chadha. Springer.2009. Chapter 8.
 
 参考网站
 ---
-- [pynq home page](http://www.pynq.io/)
+- [PYNQ: PYTHON PRODUCTIVITY](http://www.pynq.io/)
