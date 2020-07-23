@@ -4,28 +4,13 @@ Zhixiong Di personal page
 课程
 ===
 
-[中国大学MOOC芯动力。](./class1)
----
-[课程主页有相关信息](https://www.icourse163.org/course/SWJTU-1207492806?tid=1207824209)。
+- [中国大学MOOC芯动力。](./class1)
 
-- 课程概述
-- 授课目标
-- 课程大纲
-- 前序知识
-- 参考资料
-- 课程内容：按章节划分，每个章节的名称、链接、课件PDF文件。
+  [课程主页有相关信息](https://www.icourse163.org/course/SWJTU-1207492806?tid=1207824209)。
 
-IC创新学院-静态时序分析。
----
-[课程主页有相关信息](https://www.iccollege.cn/portal/courseDetail/193.mooc)。
+- [IC创新学院-静态时序分析。](./class2)
 
-- 课程概述
-- 授课目标
-- 课程大纲
-- 前序知识
-- 参考资料
-- 课程内容：按章节划分，每个章节的名称、链接、课件PDF文件。
-
+  [课程主页有相关信息](https://www.iccollege.cn/portal/courseDetail/193.mooc)。
 
 学科竞赛作品。
 ===
@@ -41,9 +26,9 @@ IC创新学院-静态时序分析。
 
 - - -
 
-[个人主页](www.baidu.com)
+[个人主页](https://faculty.swjtu.edu.cn/dizhixiong/zh_CN/index.htm)
 
-[邮箱](zxdi@home.swjtu.edu.cn)
+[邮箱](mailto:zxdi@home.swjtu.edu.cn)
 
 友情链接:
 
