@@ -1,6 +1,3 @@
-Zhixiong Di personal page
----
-
 课程
 ===
 
