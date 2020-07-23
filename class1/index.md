@@ -212,7 +212,7 @@ Bhasker, Rakesh Chadha. Springer.2009. Chapter 8.
 
 课程内容
 ---
-![教学内容](jxnr.png)
+![教学内容](./jxnr.png)
 
 参考网站
 ---
