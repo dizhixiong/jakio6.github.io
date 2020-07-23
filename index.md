@@ -9,9 +9,8 @@
 学科竞赛作品。
 ---
 
-- 2018年全国大学生集成电路创新创业大赛一等奖作品softmax
+- 2018年全国大学生集成电路创新创业大赛一等奖作品[softmax](https://github.com/CustomizableComputingLab/PYNQ_softmax)
 - 2019年集成电路EDA精英挑战赛作品
-- 技术讲解视频：[Google论文解读](https://www.moore8.com/courses/2920)
 
 
 技术讲解视频
