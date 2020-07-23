@@ -21,23 +21,23 @@
 课程大纲
 ---
 ![知识点](./zsd.png)
-1. 脚本语言
+- 脚本语言
   1. TCL语言
   2. synopsys TCL语言
-2. 标准单元工艺库
-3. 建立静态时序分析的环境
+- 标准单元工艺库
+- 建立静态时序分析的环境
   1. 时钟相关约束
   2. 外部接口约束等
-4. 时序检查
+- 时序检查
   1. setup与hold检查方法
   2. 多周期、半周期、伪路径
   3. 多时钟
-5. Robust Verification
+- Robust Verification
   1. on chip variation
   2. time borrowing
   3. data to data check
   4. clock gating check
-6. 习题讲解
+- 习题讲解
 
 前序知识
 ---
