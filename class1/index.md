@@ -144,7 +144,10 @@ TCL语言的应用方法。
 ---
 ![参考书目](./cksm.png)
 
+<details>
+<summary>
 第二章-VerilogHDL可综合设计
+</summary>
 
 1.  SoC设计方法与实现(第3版).郭炜 等. 电子工业出版社.2017年.第六章.
 
@@ -159,8 +162,12 @@ TCL语言的应用方法。
     机械工业出版社. 2006.
 
 6.  Clifford E. Cummings经典论文
+</details>
 
+<details>
+<summary>
 第三章-同步电路设计与跨时钟域
+</summary>
 
 1.  SoC设计方法与实现(第3版).郭炜 等. 电子工业出版社.2017年.第七章.
 
@@ -168,8 +175,12 @@ TCL语言的应用方法。
 
 3.  FPGA深度解析. 樊继明，陆锦宏 著. 北京航空航天大学出版社.
     2015年.第八章.
+</details>
 
+<details>
+<summary>
 第四章-逻辑综合DesignCompiler
+</summary>
 
 1.  Design Compiler User Guide
 
@@ -187,11 +198,16 @@ TCL语言的应用方法。
 
 7.  Static Timing Analysis for Nanometer Designs: A Practical
     Approach. J. Bhasker, Rakesh Chadha. Springer. 2009. Chapter 3.
+</details>
 
+<details>
+<summary>
 第五章-静态时序分析
+</summary>
 
 1. Static Timing Analysis for Nanometer Designs: A Practical Approach. J.
 Bhasker, Rakesh Chadha. Springer.2009. Chapter 8.
+</details>
 
 
 课程内容
