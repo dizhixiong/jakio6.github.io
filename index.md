@@ -4,7 +4,7 @@ Zhixiong Di personal page
 课程
 ===
 
-中国大学MOOC芯动力。
+[中国大学MOOC芯动力。](./class1)
 ---
 [课程主页有相关信息](https://www.icourse163.org/course/SWJTU-1207492806?tid=1207824209)。
 
