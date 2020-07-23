@@ -1,6 +1,8 @@
 静态时序分析
 ===
 
+[课程主页有相关信息](https://www.iccollege.cn/portal/courseDetail/193.mooc)。
+
 课程概述
 ---
 时序收敛是数字集成电路和FPGA都极为关注的指标，不管在前端RTL设计还是后端物理实现阶段都需要投入大量的时间和精力。本课程以经典书籍《Static Timing Analysis for Nanometer Designs: A Practical Approach》为教材，重点以Synopsys TCL语言入门、工艺库、复杂时序路径分析方法为核心内容，辅以时序分析笔试题，期望通过这门课程掌握静态时序分析方法。
