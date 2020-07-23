@@ -3,7 +3,7 @@
 芯动力课程
 ===
 
-[课程主页有相关信息](https://www.icourse163.org/course/SWJTU-1207492806?tid=1207824209)。
+[课程主页](https://www.icourse163.org/course/SWJTU-1207492806?tid=1207824209)。
 
 向学生概述这门课，让学生明白以下要点：
 
