@@ -58,8 +58,6 @@
 1.3数字芯片设计的流程和EDA工具
 </details>
 
-**02**
-
 <details>
 <summary>
 02: VerilogHDL可综合设计
